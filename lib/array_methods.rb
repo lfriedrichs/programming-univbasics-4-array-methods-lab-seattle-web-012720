@@ -7,7 +7,7 @@ def using_sort(array)
 end
 
 def using_reverse(array)
- array.reverse!
+ array.reverse
 end
 
 def using_first(array)
@@ -15,7 +15,7 @@ def using_first(array)
 end
 
 def using_last(array)
- array.laast
+ array.last
 end
 
 def using_size(array)
